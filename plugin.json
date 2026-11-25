@@ -4,10 +4,7 @@
   "displayName": "Adspirer Social Ads",
   "version": "1.0.0",
   "description": "Run Meta (Facebook, Instagram) and TikTok ads: report ROAS and CPA, catch creative fatigue, build campaigns. Campaigns start paused; changes need approval.",
-  "category": [
-    "Design",
-    "Marketing"
-  ],
+  "category": "Design",
   "logo": "assets/logo.svg",
   "suggestedPrompts": [
     "How did my Meta and TikTok campaigns perform over the last 30 days against the 30 before?",

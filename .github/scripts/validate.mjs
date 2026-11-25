@@ -9,7 +9,7 @@ const fail = (m) => errors.push(m);
 const json = (p) => { try { return JSON.parse(readFileSync(p, "utf8")); } catch (e) { fail(`${p}: ${e.message}`); return {}; } };
 
 const ALLOWED = ["$schema", "name", "displayName", "description", "version", "disabled", "logo",
-  "suggestedPrompts", "skills", "author", "homepage", "repository", "license", "keywords", "extensions"];
+  "suggestedPrompts", "category", "skills", "author", "homepage", "repository", "license", "keywords", "extensions"];
 const BRANDS = /^(antigravity|gemini|claude|cursor)/i;
 
 const m = json("plugin.json");

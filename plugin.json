@@ -1,0 +1,43 @@
+{
+  "$schema": "https://antigravity.google/schemas/v1/plugin.json",
+  "name": "adspirer-social-ads",
+  "displayName": "Adspirer Social Ads",
+  "version": "1.0.0",
+  "description": "Run Meta (Facebook, Instagram) and TikTok ads: report ROAS and CPA, catch creative fatigue, build campaigns. Campaigns start paused; changes need approval.",
+  "logo": "assets/logo.svg",
+  "suggestedPrompts": [
+    "How did my Meta and TikTok campaigns perform over the last 30 days against the 30 before?",
+    "Which of my Meta ads are showing creative fatigue, and what should replace them?",
+    "Plan a paused Advantage+ catalog campaign for my store and show me the plan first"
+  ],
+  "author": {
+    "name": "Adspirer",
+    "email": "support@adspirer.com",
+    "url": "https://www.adspirer.com"
+  },
+  "homepage": "https://www.adspirer.com",
+  "repository": "https://github.com/Adspirer/adspirer-social-ads-antigravity-plugin",
+  "license": "MIT",
+  "keywords": [
+    "adspirer",
+    "advertising",
+    "paid social",
+    "social media ads",
+    "meta ads",
+    "facebook ads",
+    "instagram ads",
+    "tiktok ads",
+    "advantage plus",
+    "catalog ads",
+    "dynamic product ads",
+    "lead ads",
+    "creative fatigue",
+    "ad creative",
+    "audience targeting",
+    "competitor ads",
+    "wasted spend",
+    "roas",
+    "cpa",
+    "ctr"
+  ]
+}
